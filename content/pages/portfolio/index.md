@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: 'Entwurfsarbeiten,'
+subtitle: Entwurfsarbeiten aus dem Bachelorstudium
 layout_style: mosaic
 seo:
   title: Portfolio

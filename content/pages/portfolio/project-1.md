@@ -3,7 +3,7 @@ title: Kleinwohngrundrisse in Bern
 subtitle: 4. Semester
 thumb_image: images/Laubengang.tiff
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: images/smiling-giraffe.tiff
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Kleinwohngrundrisse in Bern

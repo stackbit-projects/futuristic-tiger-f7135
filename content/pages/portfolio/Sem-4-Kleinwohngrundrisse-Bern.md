@@ -4,6 +4,7 @@ subtitle: 4. Semester
 thumb_image: images/Visu auf Laubengang.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/Visu auf Laubengang.jpg
+
 image_alt: Visualisierung Laubengang
 seo:
   title: Kleinwohngrundrisse in Bern

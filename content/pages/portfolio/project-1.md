@@ -1,7 +1,7 @@
 ---
 title: Kleinwohngrundrisse in Bern
 subtitle: 4. Semester
-date: '2019-10-10'
+date: '0002-10-10'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg

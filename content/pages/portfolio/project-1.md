@@ -1,7 +1,7 @@
 ---
 title: Kleinwohngrundrisse in Bern
 subtitle: 4. Semester
-thumb_image: images/Laubengang.tiff
+thumb_image: images/Visu auf Laubengang.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/smiling-giraffe.tiff
 image_alt: Visualisierung Laubengang

@@ -8,7 +8,7 @@ image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Kleinwohngrundrisse in Bern
-  description: This is the project 1 description
+  description: 4. Entwurfssemester
   extra:
     - name: 'og:type'
       value: website

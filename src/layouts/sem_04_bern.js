@@ -27,7 +27,9 @@ export default class Project extends React.Component {
                   {markdownify(_.get(this.props, 'page.markdown', null))}
                 </div>
               </article>
-
+</header>
+                {_.get(this.props, 'page.frontmatter.image', null) && (
+                <div className="post-image">
             </div>
             </Layout>
         );

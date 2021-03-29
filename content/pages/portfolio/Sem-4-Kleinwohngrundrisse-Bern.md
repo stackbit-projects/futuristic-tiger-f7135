@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
-layout: project
+layout: portfolio
 date: '2020-06-07'
 ---
 
